@@ -9,7 +9,7 @@ Task:
 
 Update 3/3/25:
 ```
-3) Làm theo hướng dẫn trong.
+3) Làm theo hướng dẫn trong phần comment (Mở file report -> Review -> Markup -> All Markup).
 ```
 
 # Nhóm 2: Tìm cách điều khiển AD9361
@@ -25,6 +25,7 @@ https://wiki.analog.com/resources/tools-software/linux-software/iio_oscilloscope
 
 Update 3/3/25:
 ```
-4) Dùng phần mềm IIO để tạo tín hiệu (dùng chế độ DDS) và thu lại tín hiệu đó.
-5) Dùng /sys/bus/iio/devices/iio:deviceX thay vì IIO.
+4) Làm theo hướng dẫn trong phần comment (Mở file report -> Review -> Markup -> All Markup).
+5) Dùng phần mềm IIO để tạo tín hiệu (dùng chế độ DDS) và thu lại tín hiệu đó.
+6) Dùng /sys/bus/iio/devices/iio:deviceX thay vì IIO.
 ```
